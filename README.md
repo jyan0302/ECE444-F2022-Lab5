@@ -1,5 +1,5 @@
 # Flaskr - Intro to Flask, Test-Driven Development, and JavaScript
-This project was clone from https://github.com/mjhea0/flaskr-tdd.
+This project was cloned from https://github.com/mjhea0/flaskr-tdd.
 ## Lab 6 TDD - Jonathan Yan
 
 ## Pros and Cons of TDD
